@@ -1,8 +1,6 @@
 # Omarchy core package list installed via install/packages.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
 alacritty
 asdcontrol-git
 avahi
@@ -24,15 +22,11 @@ dust
 evince
 eza
 fastfetch
-fcitx5
-fcitx5-gtk
-fcitx5-qt
 fd
 ffmpegthumbnailer
 fontconfig
 fzf
 github-cli
-gnome-calculator
 gnome-keyring
 gnome-themes-extra
 gum
@@ -51,9 +45,7 @@ imv
 inetutils
 iwd
 jq
-kdenlive
 kvantum-qt5
-lazydocker
 lazygit
 less
 libyaml
@@ -69,7 +61,6 @@ mise
 mpv
 nautilus
 noto-fonts
-noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
 nss-mdns
@@ -92,9 +83,7 @@ python-terminaltexteffects
 qt5-wayland
 ripgrep
 satty
-signal-desktop
 slurp
-spotify
 starship
 sushi
 swaybg
